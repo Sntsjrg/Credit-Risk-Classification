@@ -38,7 +38,7 @@ This project involves a credit risk analysis using logistic regression. The proc
 
 ---
 
-## Summary
+## Conclusion
 
 1. **Data Split:**
    - Read data and split into training and testing sets.
